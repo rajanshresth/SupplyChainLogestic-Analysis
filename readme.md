@@ -1,5 +1,7 @@
 # Supply Chain & Inventory Performance Analytics
 
+![Dashboard](dashboard.png)
+
 This repository provides a comprehensive end-to-end analysis of supply chain operations, focusing on inventory optimization, logistics efficiency, and supplier performance. The project utilizes Python for feature engineering, SQL for data extraction, and Power BI for executive-level dashboarding.
 
 ## 📊 Business KPIs Tracked
